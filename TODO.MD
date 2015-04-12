@@ -1,9 +1,6 @@
 Bugs
 ----
 
-1. When pressing the 'back' key, the keyboard loses its layout text - reverts
-back to all 'a's.
-
 2. Recipes page - selection variable needs to be cleared on scrolling
 
 
