@@ -7,6 +7,4 @@ Bugs
 Would be nice
 -------------
 
-1. Change to only search my user account recipes. Check box to search all of BigOven.
-
 2. Multiple recipes, tabbed to allow access
